@@ -109,6 +109,7 @@ git checkout feature/taro/weather-dashboard
 | `fix` | バグ修正 | エラーや不具合の修正 |
 | `update` | 機能修正（バグではない） | デザイン変更、文言修正、リファクタリング |
 | `remove` | ファイルや機能の削除 | 不要なファイルやコードの削除 |
+| `other` | その他 |
 
 ### 具体例
 
